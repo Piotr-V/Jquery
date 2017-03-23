@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.slideshow {
+    width: 375px;
+    height: 500px;
+    overflow: hidden;
+    border: 3px solid #F2F2F2;
+    margin:10% auto;
+}
+
+.slideshow ul {
+    width: 400%;
+    height: 500px;
+    padding:0; margin:0;
+    list-style: none;
+}
+.slideshow li {
+    float: center;
+}
